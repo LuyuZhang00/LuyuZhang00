@@ -4,7 +4,9 @@
 
 - ⚡ I am currently an undergraduate student at Shanghai Jiao Tong University, majoring in Biomedical Engineering with a minor in Computer Science.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuyuZhang00&layout=compact&hide=javascript,html,jupyter%20notebook,CSS,SCSS,Less,Vue&exclude_repo=wfdb-python,CUMCM2022,python-webframe,python-basic,ChatGPT-On-WeChat,ChatGPT-Next-Web&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+** [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuyuZhang00&layout=compact&hide=javascript,html,jupyter%20notebook,CSS,SCSS,Less,Vue&exclude_repo=wfdb-python,CUMCM2022,python-webframe,python-basic,ChatGPT-On-WeChat,ChatGPT-Next-Web&count_private=true)]
+
+** (https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuyuZhang00)](https://github.com/anuraghazra/github-readme-stats)
