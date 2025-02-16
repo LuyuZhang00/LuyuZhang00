@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/fb7716b4-878f-433f-8a7f-b5793afa0f11.svg)](https://wakatime.com/@fb7716b4-878f-433f-8a7f-b5793afa0f11)
 
-- ⚡ I graduated from Shanghai Jiao Tong University in June 2024 with a major in Biomedical Engineering and a minor in Computer Science. Currently, I am working as a ModelArts Platform Development Engineer at Huawei Cloud, responsible for the development of AI platforms and training large language models. Feel free to reach out!
+- ⚡ I graduated from Shanghai Jiao Tong University in June 2024 with a major in Biomedical Engineering and a minor in Computer Science. Currently, I am working as a ModelArts Development Engineer at Huawei Cloud, responsible for the development of AI platforms and training large language models. Feel free to reach out!
 <!--
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuyuZhang00&layout=compact&hide=javascript,html,jupyter%20notebook,CSS,SCSS,Less,Vue&exclude_repo=wfdb-python,CUMCM2022,python-webframe,python-basic,ChatGPT-On-WeChat,ChatGPT-Next-Web&count_private=true)]
  (https://github.com/anuraghazra/github-readme-stats)
