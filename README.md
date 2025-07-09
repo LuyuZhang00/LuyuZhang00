@@ -8,7 +8,7 @@
 
 🌐 ​​AI Systems Engineer​​ @Huawei Cloud
 
-🔧 Focus: high-performance, large-scale inference systems • KV Cache optimization.
+🔧 Focus: High-performance, large-scale inference systems • KV Cache optimization.
 
 🚀 Mission: Making AI faster and more efficient. 
 <!--
