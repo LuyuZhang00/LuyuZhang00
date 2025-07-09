@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/fb7716b4-878f-433f-8a7f-b5793afa0f11.svg)](https://wakatime.com/@fb7716b4-878f-433f-8a7f-b5793afa0f11)
 
-👋 Hi there! I'm Luyu.
+👋 I'm Luyu.
   
 ⚡ ​​BME & CS​​ | Shanghai Jiao Tong University. '24
 
