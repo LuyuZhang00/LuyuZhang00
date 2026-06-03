@@ -6,7 +6,7 @@
 
 ⚡ BME & CS | Shanghai Jiao Tong University '24
 
-🌐 AI Systems Engineer @Huawei Cloud
+🌐 AI Systems Engineer 
 
 🔧 Focus: large-scale LLM inference systems
 
