@@ -6,7 +6,7 @@
 
 ⚡ BME & CS | Shanghai Jiao Tong University '24
 
-🌐 AI Systems Engineer 
+🌐 AI Infra Engineer 
 
 🔧 Focus: large-scale LLM inference systems
 
